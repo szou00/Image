@@ -6,4 +6,4 @@ imageMaker.o: imageMaker.c
 
 run:
 	./program
-	convert image.ppm image.png
+	convert img.ppm img.png
